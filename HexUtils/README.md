@@ -8,8 +8,8 @@ This is a simple sample code for converting hex string to/from byte array.
 
 You can easily understand how to use the following 2 utility methods:
 
-- unsigned char *util_hex_string_to_byte_array(const char *string, size_t length)
-- char *util_byte_array_to_hex_string(const unsigned char* array, size_t length)
+- unsigned char * util_hex_string_to_byte_array(const char * string, size_t length)
+- char * util_byte_array_to_hex_string(const unsigned char * array, size_t length)
 
 ## Dependency
 
